@@ -8,7 +8,10 @@ This is a Java-based University Management System designed to facilitate interac
 Assumptions--
 All instantiated students are assumed to be in semester 2 and have completed semester 1. Grades for semester 1 are not yet assigned.
 The system can be extended to accommodate additional semesters as needed.
-Application Flow
+
+Application Flow--
+Run the Mainapp.java file
+---------------------------
 User Role Selection:
 
 Users are prompted to choose their role (Student, Professor, or Admin).
